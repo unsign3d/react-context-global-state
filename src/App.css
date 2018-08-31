@@ -1,0 +1,9 @@
+.container {
+  display: flex;
+  padding: 1em;
+}
+
+.right-column {
+  text-align: center;
+  padding-left: 6em
+}
